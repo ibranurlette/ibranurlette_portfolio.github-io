@@ -1,8 +1,34 @@
 hr{
-	width: 250px;
-	border-top: 3px solid #999;
+  width: 250px;
+  border-top: 3px solid #999;
 }
 section{
-	min-height: 420px; 
+  min-height: 420px; 
+}
+h5,.lio{
+  color: black;
+
+}
+body{
+  background-image: url(../img/3.jpg);
+}
+.far,.fas,.fab{
+  color: skyblue;
+}
+.paragraf{
+  text-align: left;
+}
+.jumbotron{
+	background-image: url(../img/4.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	height:570px;
+	color: white;
+}
+.jumbotron img{
+	box-shadow: 1px 1px 5px white;
+}
+.jumbotron h1, .jumbotron p{
+	text-shadow: 1px 1px 5px white;
 }
 
